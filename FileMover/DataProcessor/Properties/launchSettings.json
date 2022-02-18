@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--source G:\\waystar --backup G:\\backup --search \"*.txt\" --numberfiles 3 --maxdays 1"
+    }
+  }
+}

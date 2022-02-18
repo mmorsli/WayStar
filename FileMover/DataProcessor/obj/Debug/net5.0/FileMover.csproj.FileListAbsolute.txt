@@ -1,0 +1,15 @@
+G:\repos\WayStar\FileMover\DataProcessor\bin\Debug\net5.0\FileMover.exe
+G:\repos\WayStar\FileMover\DataProcessor\bin\Debug\net5.0\FileMover.deps.json
+G:\repos\WayStar\FileMover\DataProcessor\bin\Debug\net5.0\FileMover.runtimeconfig.json
+G:\repos\WayStar\FileMover\DataProcessor\bin\Debug\net5.0\FileMover.runtimeconfig.dev.json
+G:\repos\WayStar\FileMover\DataProcessor\bin\Debug\net5.0\FileMover.dll
+G:\repos\WayStar\FileMover\DataProcessor\bin\Debug\net5.0\ref\FileMover.dll
+G:\repos\WayStar\FileMover\DataProcessor\bin\Debug\net5.0\FileMover.pdb
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\FileMover.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\FileMover.AssemblyInfoInputs.cache
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\FileMover.AssemblyInfo.cs
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\FileMover.csproj.CoreCompileInputs.cache
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\FileMover.dll
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\ref\FileMover.dll
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\FileMover.pdb
+G:\repos\WayStar\FileMover\DataProcessor\obj\Debug\net5.0\FileMover.genruntimeconfig.cache
